@@ -1,0 +1,26 @@
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\bin\Debug\RPG Graphique.exe.config
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\bin\Debug\RPG Graphique.exe
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\bin\Debug\RPG Graphique.pdb
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.csprojAssemblyReference.cache
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.Properties.Resources.resources
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.csproj.GenerateResource.cache
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.csproj.CoreCompileInputs.cache
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.exe
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.pdb
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.CreaPerso.resources
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.CombatWindow.resources
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.StartingWindow.resources
+C:\Users\Red.Ah\source\repos\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.QuizWindow.resources
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.csprojAssemblyReference.cache
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.CombatWindow.resources
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.CreaPerso.resources
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.QuizWindow.resources
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.StartingWindow.resources
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG_Graphique.Properties.Resources.resources
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.csproj.GenerateResource.cache
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.csproj.CoreCompileInputs.cache
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.exe
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\obj\Debug\RPG Graphique.pdb
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\bin\Debug\RPG Graphique.exe.config
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\bin\Debug\RPG Graphique.exe
+C:\Users\Red.Ah\Desktop\RPG Graphique\RPG Graphique\bin\Debug\RPG Graphique.pdb
